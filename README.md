@@ -5,7 +5,7 @@ Various web projects related to HTML, CSS, JavaScript, React, Firebase, and Fire
 ## Prerequisites
 
 - Node.js
-- Firebase CLI (if using Firebase)
+- Firebase CLI
 
 ### Installation
 
